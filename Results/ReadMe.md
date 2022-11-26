@@ -1,1 +1,1 @@
-Contains all result files in csv format.
+Contains all result and performance files.
